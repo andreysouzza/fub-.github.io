@@ -212,6 +212,7 @@ i {
   margin-bottom: 10px;
 }
 .about-description p {
+  text-align: center;
   margin-bottom: 14px;
   line-height: 150%;
 }
