@@ -136,6 +136,7 @@ i {
 }
 
 .button-contact {
+  border-radius: 8px;
   padding: 14px 28px;
   color: #fff;
   background-color: #d94140;
